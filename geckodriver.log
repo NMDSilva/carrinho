@@ -1,0 +1,1101 @@
+1619443237077	geckodriver	INFO	Listening on 127.0.0.1:61137
+1619443477912	geckodriver	INFO	Listening on 127.0.0.1:64811
+1619443510387	geckodriver	INFO	Listening on 127.0.0.1:64825
+1619443513513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileY8Mx8I"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443514187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443517213	Marionette	INFO	Listening on port 64833
+1619443517716	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443521777	Marionette	INFO	Stopped listening on port 64833
+[Parent 35412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Child 47468, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileY8Mx8I\protections.sqlite
+1619443540368	geckodriver	INFO	Listening on 127.0.0.1:49903
+1619443543416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileToTy0k"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443543872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443548218	Marionette	INFO	Listening on port 49911
+1619443548379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443554057	Marionette	INFO	Stopped listening on port 49911
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619443615191	geckodriver	INFO	Listening on 127.0.0.1:62564
+1619443618206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileLF7R2L"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443619213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443626384	Marionette	INFO	Listening on port 62572
+1619443626755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443644068	Marionette	INFO	Stopped listening on port 62572
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileLF7R2L\protections.sqlite
+1619443825044	geckodriver	INFO	Listening on 127.0.0.1:57571
+1619443828114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofiledlSBAJ"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443829240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443834110	Marionette	INFO	Listening on port 57340
+1619443834495	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443851502	Marionette	INFO	Stopped listening on port 57340
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofiledlSBAJ\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619443861661	geckodriver	INFO	Listening on 127.0.0.1:57436
+1619443864704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileLMCFds"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443865597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443869576	Marionette	INFO	Listening on port 57446
+1619443870168	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443897409	Marionette	INFO	Stopped listening on port 57446
+console.error: "Exception while opening the toolbox" "Error: Connection closed, pending request to server0.conn0.tabDescriptor1, type getWatcher failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nstartListening@resource://devtools/shared/commands/target/target-command.js:272:56\n" (new Error("Connection closed, pending request to server0.conn0.tabDescriptor1, type getWatcher failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nstartListening@resource://devtools/shared/commands/target/target-command.js:272:56\n", "resource://devtools/shared/protocol/Front.js", 99))
+baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:99:23
+destroy@resource://devtools/shared/protocol/Front.js:67:10
+destroy@resource://devtools/client/fronts/descriptors/tab.js:83:11
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+destroy@resource://devtools/client/fronts/descriptors/tab.js:78:12
+destroy@resource://devtools/shared/protocol/Pool.js:196:17
+baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13
+purgeRequests@resource://devtools/client/devtools-client.js:683:15
+onClosed@resource://devtools/client/devtools-client.js:598:10
+close@resource://devtools/shared/transport/local-transport.js:170:22
+close@resource://devtools/shared/transport/local-transport.js:165:13
+close@resource://devtools/shared/transport/local-transport.js:165:13
+close@resource://devtools/client/devtools-client.js:131:23
+_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:650:30
+destroy@resource://devtools/client/fronts/targets/target-mixin.js:613:12
+destroy@resource://devtools/client/fronts/targets/browsing-context.js:133:27
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+onPacket@resource://devtools/shared/protocol/Front.js:329:13
+onPacket@resource://devtools/client/devtools-client.js:482:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3679: TypeError: this.target is undefined
+JavaScript error: resource://devtools/client/shared/WeakMapMap.js, line 73: TypeError: WeakMap key must be an object, got key
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619443959783	geckodriver	INFO	Listening on 127.0.0.1:53908
+1619443962909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileDDAaMC"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619443963610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619443967645	Marionette	INFO	Listening on port 53918
+1619443967826	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619443999196	Marionette	INFO	Stopped listening on port 53918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619444223421	geckodriver	INFO	Listening on 127.0.0.1:58303
+1619444226591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile6ixMgL"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444228005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444232419	Marionette	INFO	Listening on port 58316
+1619444232968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619444579109	Marionette	INFO	Stopped listening on port 58316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileAxk6Ya"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444430386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444436599	Marionette	INFO	Listening on port 53286
+1619444436755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619444580454	Marionette	INFO	Stopped listening on port 53286
+1619444582812	geckodriver	INFO	Listening on 127.0.0.1:53489
+1619444585913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileMYzcLl"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444586947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444590559	Marionette	INFO	Listening on port 53502
+1619444591087	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileMYzcLl\protections.sqlite
+1619444618792	Marionette	INFO	Stopped listening on port 53502
+1619444619431	geckodriver	INFO	Listening on 127.0.0.1:64417
+1619444622441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileminF3A"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444623064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444625537	Marionette	INFO	Listening on port 64426
+1619444625634	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619444669996	Marionette	INFO	Stopped listening on port 64421619444672717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileOobbnW"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444673397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444677186	Marionette	INFO	Listening on port 64135
+1619444677572	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619444754563	Marionette	INFO	Stopped listening on port 64135
+illa.cfg, line 16: ReferenceError: Components is not defined
+1619444751048	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619444758441	geckodriver	INFO	Listening on 127.0.0.1:56655
+1619444761498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileiGrqkj"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444761952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444764597	Marionette	INFO	Listening on port 56665
+1619444764703	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619444779340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619444789628	Marionette	INFO	Stopped listening on port 56665
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619444983331	geckodriver	INFO	Listening on 127.0.0.1:61606
+1619444986560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileznBbRm"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619444987878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619444992049	Marionette	INFO	Listening on port 61617
+1619444992445	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619445036596	Marionette	INFO	Stopped listening on port 61617
+1619445040585	geckodriver	INFO	Listening on 127.0.0.1:61835
+1619445043744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilevP61X8"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619445048511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619445053815	Marionette	INFO	Listening on port 61852
+1619445053926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619445075516	Marionette	INFO	Stopped listening on port 61852
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619445227970	geckodriver	INFO	Listening on 127.0.0.1:54348
+1619445231244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile19RXLw"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619445234281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619445238672	Marionette	INFO	Listening on port 54357
+1619445239064	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619445261138	Marionette	INFO	Stopped listening on port 54357
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619445565629	geckodriver	INFO	Listening on 127.0.0.1:52280
+1619445568802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilepjTlBv"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619445570403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619445575277	Marionette	INFO	Listening on port 52290
+1619445575306	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619445674117	Marionette	INFO	Stopped listening on port 52290
+1619445971248	geckodriver	INFO	Listening on 127.0.0.1:50135
+1619445974374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileztJFPy"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619445975752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619445979873	Marionette	INFO	Listening on port 50149
+1619445980260	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446015547	Marionette	INFO	Stopped listening on port 50149
+1619446134468	geckodriver	INFO	Listening on 127.0.0.1:63678
+1619446137640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileKQfVWg"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446138847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446144366	Marionette	INFO	Listening on port 63687
+1619446144666	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446173171	Marionette	INFO	Stopped listening on port 63687
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileKQfVWg\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619446300379	geckodriver	INFO	Listening on 127.0.0.1:51019
+1619446303564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilezJe0mT"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446304900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446312821	Marionette	INFO	Listening on port 51031
+1619446313149	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446338725	Marionette	INFO	Stopped listening on port 51031
+1619446387106	geckodriver	INFO	Listening on 127.0.0.1:64288
+1619446390137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileAIXysQ"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446391019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446394950	Marionette	INFO	Listening on port 64298
+1619446395489	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446417249	Marionette	INFO	Stopped listening on port 64298
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619446478176	geckodriver	INFO	Listening on 127.0.0.1:64434
+1619446481231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilelOzjWV"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446481708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446484353	Marionette	INFO	Listening on port 64444
+1619446484420	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446509944	Marionette	INFO	Stopped listening on port 64444
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619446610405	geckodriver	INFO	Listening on 127.0.0.1:51904
+1619446613499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilep3FlnJ"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446613990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446617119	Marionette	INFO	Listening on port 51914
+1619446617186	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1619446673228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilewynuhe"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446673965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446676362	Marionette	INFO	Listening on port 53465
+1619446676399	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619446708124	Marionette	INFO	Stopped listening on port 53465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619446712085	geckodriver	INFO	Listening on 127.0.0.1:63271
+1619446715182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileko7Kvm"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446715668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446718250	Marionette	INFO	Listening on port 63283
+1619446718358	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446734250	Marionette	INFO	Stopped listening on port 63283
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileko7Kvm\protections.sqlite
+1619446808938	geckodriver	INFO	Listening on 127.0.0.1:52266
+1619446811962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileRomHMw"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619446813535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619446817332	Marionette	INFO	Listening on port 57513
+1619446817849	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619446837416	Marionette	INFO	Stopped listening on port 57513
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileRomHMw\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619447019609	geckodriver	INFO	Listening on 127.0.0.1:53015
+1619447022785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile2ni0jH"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447024123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447028263	Marionette	INFO	Listening on port 53024
+1619447028933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 45568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 45568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 45568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619447076227	Marionette	INFO	Stopped listening on port 53024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619447109744	geckodriver	INFO	Listening on 127.0.0.1:54281
+1619447112915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilecwJuNo"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447114283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447118467	Marionette	INFO	Listening on port 53617
+1619447118849	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619447159647	Marionette	INFO	Stopped listening on port 53617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619447207656	geckodriver	INFO	Listening on 127.0.0.1:64394
+1619447210872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile7PffFm"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447212542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447217940	Marionette	INFO	Listening on port 64403
+1619447218397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619447237528	Marionette	INFO	Stopped listening on port 64403
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619447351191	geckodriver	INFO	Listening on 127.0.0.1:62237
+1619447354413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileOSGtXt"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447355873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447362235	Marionette	INFO	Listening on port 62246
+1619447362463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619447451818	Marionette	INFO	Stopped listening on port 62246
+1619447842366	geckodriver	INFO	Listening on 127.0.0.1:57459
+1619447845541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileEZaUCq"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447847846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447857111	Marionette	INFO	Listening on port 57469
+1619447857360	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619447909604	Marionette	INFO	Stopped listening on port 57469
+1619447982006	geckodriver	INFO	Listening on 127.0.0.1:64335
+1619447985148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilekQhXYk"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619447986343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619447991299	Marionette	INFO	Listening on port 64346
+1619447991530	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448025768	Marionette	INFO	Stopped listening on port 64346
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1619448029232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile02ZQ3t"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448029793	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448033730	Marionette	INFO	Listening on port 64478
+1619448034043	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448092926	Marionette	INFO	Stopped listening on port 64478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619448191478	geckodriver	INFO	Listening on 127.0.0.1:51009
+1619448194648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileVSRFGH"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448196114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448200216	Marionette	INFO	Listening on port 51018
+1619448200497	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448218345	Marionette	INFO	Stopped listening on port 51018
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619448422110	geckodriver	INFO	Listening on 127.0.0.1:62221
+1619448425178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileUf5pcB"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448426488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448430145	Marionette	INFO	Listening on port 62231
+1619448430533	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448476045	Marionette	INFO	Stopped listening on port 62231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619448476334	geckodriver	INFO	Listening on 127.0.0.1:62304
+1619448479510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile90od4C"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448479963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448482509	Marionette	INFO	Listening on port 62325
+1619448482731	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448499998	Marionette	INFO	Stopped listening on port 62325
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofile90od4C\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619448561281	geckodriver	INFO	Listening on 127.0.0.1:59747
+1619448564463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile6GRuGx"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448565645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448569544	Marionette	INFO	Listening on port 59756
+1619448569863	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448586735	Marionette	INFO	Stopped listening on port 59756
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofile6GRuGx\protections.sqlite
+1619448654812	geckodriver	INFO	Listening on 127.0.0.1:58730
+1619448657885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileWaSGcG"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448659053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448662915	Marionette	INFO	Listening on port 58738
+1619448663256	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448681094	Marionette	INFO	Stopped listening on port 58738
+[Parent 44308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619448864825	geckodriver	INFO	Listening on 127.0.0.1:65500
+1619448867954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileqQYLxH"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619448869474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619448873763	Marionette	INFO	Listening on port 65509
+1619448873829	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619448891412	Marionette	INFO	Stopped listening on port 65509
+1619449041392	geckodriver	INFO	Listening on 127.0.0.1:50088
+1619449044490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileYoTSqR"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619449046039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619449050575	Marionette	INFO	Listening on port 50102
+1619449050904	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619449068128	Marionette	INFO	Stopped listening on port 50102
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619451476551	geckodriver	INFO	Listening on 127.0.0.1:50896
+1619451479708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileqJj6sh"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619451480998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619451485135	Marionette	INFO	Listening on port 50905
+1619451485580	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619451528814	Marionette	INFO	Stopped listening on port 50905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619451533953	geckodriver	INFO	Listening on 127.0.0.1:51001
+1619451537086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileXr9Wqr"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619451537614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619451544058	Marionette	INFO	Listening on port 51010
+1619451544605	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619451562313	Marionette	INFO	Stopped listening on port 51010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619451957649	geckodriver	INFO	Listening on 127.0.0.1:52234
+1619451960940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileKjr3yE"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619451962849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 41112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+[Parent 41112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619451981701	geckodriver	INFO	Listening on 127.0.0.1:52262
+1619451984888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilevwTWdZ"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619451985354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619451988734	Marionette	INFO	Listening on port 52273
+1619451989073	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619452157735	Marionette	INFO	Stopped listening on port 52273
+1619452170058	geckodriver	INFO	Listening on 127.0.0.1:52415
+1619452173100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilezKFKJB"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619452173889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619452177771	Marionette	INFO	Listening on port 52424
+1619452177996	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619452347975	Marionette	INFO	Stopped listening on port 52424
+1619534625183	geckodriver	INFO	Listening on 127.0.0.1:62973
+1619534628447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilelHXHQ7"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619534630346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619534639810	Marionette	INFO	Listening on port 62984
+1619534640447	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619534682064	Marionette	INFO	Stopped listening on port 62984
+1619534691675	geckodriver	INFO	Listening on 127.0.0.1:63173
+1619534694782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilehjLGIV"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619534698301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619534704515	Marionette	INFO	Listening on port 51336
+1619534705005	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619534925715	Marionette	INFO	Stopped listening on port 51336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619535580499	geckodriver	INFO	Listening on 127.0.0.1:62812
+1619535583638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilejAGhp3"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619535585361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619535599022	Marionette	INFO	Listening on port 62821
+1619535599181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619535826862	Marionette	INFO	Stopped listening on port 62821
+1619602781912	geckodriver	INFO	Listening on 127.0.0.1:53458
+1619602784989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilegz4xSO"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619602789051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619602794373	Marionette	INFO	Listening on port 53467
+1619602794623	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619602901023	Marionette	INFO	Stopped listening on port 53467
+1619602913069	geckodriver	INFO	Listening on 127.0.0.1:53626
+1619602916284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileSSkev2"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619602917590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619602921911	Marionette	INFO	Listening on port 53636
+1619602922263	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619602944079	Marionette	INFO	Stopped listening on port 53636
+1619603293651	geckodriver	INFO	Listening on 127.0.0.1:52363
+1619603296755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilerghsTN"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619603298233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619603304058	Marionette	INFO	Listening on port 52373
+1619603304303	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619603343077	Marionette	INFO	Stopped listening on port 52373
+1619603350089	geckodriver	INFO	Listening on 127.0.0.1:59447
+1619603353196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilePE30Ni"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619603353821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619603357438	Marionette	INFO	Listening on port 59456
+1619603357603	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619603386586	Marionette	INFO	Stopped listening on port 59456
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofilePE30Ni\protections.sqlite
+1619604470660	geckodriver	INFO	Listening on 127.0.0.1:59654
+1619604473891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileM1mp3y"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619604475290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619604480013	Marionette	INFO	Listening on port 59663
+1619604480293	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619604523111	Marionette	INFO	Stopped listening on port 59663
+1619604526824	geckodriver	INFO	Listening on 127.0.0.1:59773
+1619604529955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilek1POtm"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619604530505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619604533390	Marionette	INFO	Listening on port 59793
+1619604533743	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619604574868	Marionette	INFO	Stopped listening on port 59793
+1619604578643	geckodriver	INFO	Listening on 127.0.0.1:56447
+1619604581837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileqK2FT5"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619604584013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619604588464	Marionette	INFO	Listening on port 56458
+1619604588810	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619604608524	Marionette	INFO	Stopped listening on port 56458
+1619604772021	geckodriver	INFO	Listening on 127.0.0.1:49340
+1619604775170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileWnfLVn"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619604777385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619604786009	Marionette	INFO	Listening on port 49349
+1619604786499	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619604801881	Marionette	INFO	Stopped listening on port 49349
+1619607644593	geckodriver	INFO	Listening on 127.0.0.1:63117
+1619607647794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofiledEJfEe"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619607649917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619607653736	Marionette	INFO	Listening on port 63129
+1619607654205	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619607676594	Marionette	INFO	Stopped listening on port 63129
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofiledEJfEe\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619607732508	geckodriver	INFO	Listening on 127.0.0.1:65056
+1619607735619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilevXuOA4"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619607737684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619607740237	Marionette	INFO	Listening on port 65065
+1619607740924	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619607759253	Marionette	INFO	Stopped listening on port 65065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofilevXuOA4\protections.sqlite
+1619607976693	geckodriver	INFO	Listening on 127.0.0.1:52542
+1619607979875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile2FbjOe"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619607981176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619607983721	Marionette	INFO	Listening on port 52551
+1619607984125	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619608003611	Marionette	INFO	Stopped listening on port 52551
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofile2FbjOe\protections.sqlite
+1619608350135	geckodriver	INFO	Listening on 127.0.0.1:51012
+1619608353275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileMSTG89"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619608354717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619608358312	Marionette	INFO	Listening on port 51021
+1619608358880	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619608375133	Marionette	INFO	Stopped listening on port 51021
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileMSTG89\protections.sqlite
+1619608474419	geckodriver	INFO	Listening on 127.0.0.1:51152
+1619608477638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileDg0Ogi"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619608481605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619608484828	Marionette	INFO	Listening on port 58413
+1619608485403	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30856, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619608503261	Marionette	INFO	Stopped listening on port 58413
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileDg0Ogi\protections.sqlite
+1619610135154	geckodriver	INFO	Listening on 127.0.0.1:55432
+1619610138385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile1Zetzb"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619610139751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610142029	Marionette	INFO	Listening on port 55440
+1619610142108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Listening on 127.0.0.1:55504
+1619610182449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile9lq6KG"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619610186160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610188880	Marionette	INFO	Listening on port 55514
+1619610188956	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 45596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619610559503	Marionette	INFO	Stopped listening on port 55514
+\Temp\\rust_mozprofilezRhbjB"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619610251078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610256432	Marionette	INFO	Listening on port 55625
+1619610257009	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619610274726	Marionette	INFO	Stopped listening on port 55625
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofilezRhbjB\protections.sqlite
+1619610446505	geckodriver	INFO	Listening on 127.0.0.1:58970
+1619610449562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileXdw7Az"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619610454336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610458296	Marionette	INFO	Listening on port 58978
+1619610458886	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAA0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 44448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619610559502	Marionette	INFO	Stopped listening on port 58978
+rror: Components is not defined
+1619610503239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610507684	Marionette	INFO	Listening on port 59059
+1619610508235	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619610527916	Marionette	INFO	Stopped listening on port 59059
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofile8jqLih\protections.sqlite
+1619610689392	geckodriver	INFO	Listening on 127.0.0.1:55136
+1619610692689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilevUHF1G"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619610696898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619610701658	Marionette	INFO	Listening on port 55144
+1619610702053	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619610719165	Marionette	INFO	Stopped listening on port 55144
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofilevUHF1G\protections.sqlite
+1619611302988	geckodriver	INFO	Listening on 127.0.0.1:60454
+1619611306197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilecGSYCM"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619611307608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611310659	Marionette	INFO	Listening on port 60463
+1619611311063	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619611328285	Marionette	INFO	Stopped listening on port 60463
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619611391203	geckodriver	INFO	Listening on 127.0.0.1:60566
+1619611394293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileXA44JW"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619611395789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611398656	Marionette	INFO	Listening on port 60574
+1619611399104	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619611416196	Marionette	INFO	Stopped listening on port 60574
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileXA44JW\protections.sqlite
+1619612081179	geckodriver	INFO	Listening on 127.0.0.1:64546
+1619612084415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileWv9BbG"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619612085818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612088135	Marionette	INFO	Listening on port 64554
+1619612088847	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619612122129	Marionette	INFO	Stopped listening on port 64554
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileWv9BbG\protections.sqlite
+1619612858051	geckodriver	INFO	Listening on 127.0.0.1:62205
+1619612861278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileXuuuMi"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619612863026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612866126	Marionette	INFO	Listening on port 62213
+1619612866191	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1619619323650	geckodriver	INFO	Listening on 127.0.0.1:62061
+1619619326799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileiPOBfM"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619619328632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619619331205	Marionette	INFO	Listening on port 62070
+1619619331670	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1619621040046	Marionette	INFO	Stopped listening on port 62070
+1619622663512	geckodriver	INFO	Listening on 127.0.0.1:58107
+1619622666592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileaJZqVS"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619622669960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619622674771	Marionette	INFO	Listening on port 58117
+1619622675199	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619622693411	Marionette	INFO	Stopped listening on port 58117
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619622786930	geckodriver	INFO	Listening on 127.0.0.1:56449
+1619622790097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileSmh4Kd"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619622791646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619622796530	Marionette	INFO	Listening on port 56458
+1619622796556	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619622815205	Marionette	INFO	Stopped listening on port 56458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619622839025	geckodriver	INFO	Listening on 127.0.0.1:57394
+1619622842062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileTGCRRF"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619622842535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619622845761	Marionette	INFO	Listening on port 57404
+1619622846307	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619622872870	Marionette	INFO	Stopped listening on port 57404
+1619622991029	geckodriver	INFO	Listening on 127.0.0.1:64393
+1619622994271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile9drZrI"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619622995349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619622999011	Marionette	INFO	Listening on port 56787
+1619622999198	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619623026546	Marionette	INFO	Stopped listening on port 56787
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofile9drZrI\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619623128648	geckodriver	INFO	Listening on 127.0.0.1:61142
+1619623131702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilelkulTK"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619623132133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619623133475	Marionette	INFO	Listening on port 61153
+1619623133764	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619624620013	Marionette	INFO	Stopped listening on port 61153
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ns198422\AppData\Local\Temp\rust_mozprofileX6pc3o\protections.sqlite
+1619624618111	Marionette	INFO	Stopped listening on port 52048
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+)"))
+1619624458483	Marionette	INFO	Listening on port 51674
+1619624459120	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619624614889	Marionette	INFO	Stopped listening on port 51674
+1619624632143	geckodriver	INFO	Listening on 127.0.0.1:51781
+1619624635309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilesAhIHc"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619624636060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619624638099	Marionette	INFO	Listening on port 51789
+1619624638479	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59697
+1619624734248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileuleahg"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619624734835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619624736597	Marionette	INFO	Listening on port 59707
+1619624736978	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59817
+1619624898657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofiledmP8LC"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619624899430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619624901723	Marionette	INFO	Listening on port 59825
+1619624901842	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59985
+1619624992918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofileAy4zTF"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619624993548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619624995242	Marionette	INFO	Listening on port 60000
+1619624995611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59379
+1619625486578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilehpENEt"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619625487850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619625490147	Marionette	INFO	Listening on port 59387
+1619625490311	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60235
+1619626231395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofilev6CMXG"
+*** You are running in headless mode.
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619626234611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619626237392	Marionette	INFO	Listening on port 60245
+1619626237800	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60366
+1619626363739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ns198422\\AppData\\Local\\Temp\\rust_mozprofile2JdZZS"
+JavaScript error: mozilla.cfg, line 16: ReferenceError: Components is not defined
+1619626364800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619626369556	Marionette	INFO	Listening on port 60374
+1619626370135	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619626390043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619626417130	Marionette	INFO	Stopped listening on port 60374
