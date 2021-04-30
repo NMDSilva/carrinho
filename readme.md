@@ -1,4 +1,4 @@
-# Obter informações de produtos do Solmar
+# Obter informações de produtos
 
 ## Obrigatório
 + [python](https://www.python.org/downloads/)
@@ -10,8 +10,6 @@
 ```python
 pip install beautifulsoup4 selenium 
 ```
-
-
 
 ## Criar bd
 ```python
